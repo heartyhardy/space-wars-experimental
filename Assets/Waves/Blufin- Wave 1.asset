@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46b7f43de6260a949bcc2d65064cb427, type: 3}
+  m_Name: Blufin- Wave 1
+  m_EditorClassIdentifier: 
+  enemy: {fileID: 1266617562261578, guid: 177914e2bd5eabe4b9e0ed9cada7aad2, type: 2}
+  path: {fileID: 1858920612347774, guid: 5dbe9bdc80e5fcb4b9efd37f82c6e636, type: 2}
+  spawnTime: 0.8
+  spawnRandomness: 0.3
+  enemyCount: 10
+  moveSpeed: 4

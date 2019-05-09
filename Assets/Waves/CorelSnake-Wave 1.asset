@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46b7f43de6260a949bcc2d65064cb427, type: 3}
+  m_Name: CorelSnake-Wave 1
+  m_EditorClassIdentifier: 
+  enemy: {fileID: 1017455820469620, guid: 69c14a847b8860b4d9d3a82cbfee0c90, type: 2}
+  path: {fileID: 1273182326258312, guid: 7a245a38a676e1e4ba60240da44f3523, type: 2}
+  spawnTime: 0.5
+  spawnRandomness: 0.3
+  enemyCount: 5
+  moveSpeed: 3
